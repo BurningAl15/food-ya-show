@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/food-ya-show.github.io/static/css/main.1e7fe3e4.css",
-    "main.js": "/food-ya-show.github.io/static/js/main.9587436c.js",
-    "index.html": "/food-ya-show.github.io/index.html",
-    "main.1e7fe3e4.css.map": "/food-ya-show.github.io/static/css/main.1e7fe3e4.css.map",
-    "main.9587436c.js.map": "/food-ya-show.github.io/static/js/main.9587436c.js.map"
+    "main.css": "/food-ya-show/static/css/main.1e7fe3e4.css",
+    "main.js": "/food-ya-show/static/js/main.9587436c.js",
+    "index.html": "/food-ya-show/index.html",
+    "main.1e7fe3e4.css.map": "/food-ya-show/static/css/main.1e7fe3e4.css.map",
+    "main.9587436c.js.map": "/food-ya-show/static/js/main.9587436c.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7fe3e4.css",
